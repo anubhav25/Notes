@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm \nPassword</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="register">Register Now</string>
+    <string name="already">Already a user</string>
+    <string name="autologin">Auto Login</string>
+    <string name="spaces">"    "</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="delete">delete</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+</resources>
